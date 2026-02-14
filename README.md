@@ -114,7 +114,7 @@ If you want to contribute or modify the source:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/2bo-light-css.git
+   git clone https://github.com/2bo-velocity/2bo-light-css.git
    ```
 
 2. **Modify CSS**:
